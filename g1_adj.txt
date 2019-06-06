@@ -1,0 +1,13 @@
+#/home/czylabson/miniconda3/lib/python3.7/site-packages/ipykernel_launcher.py -f /run/user/1002/jupyter/kernel-32e9ff3b-ba4b-418b-bdf0-c2c3ecadb370.json
+# GMT Wed Jun  5 18:22:33 2019
+# 
+0 8 9 7 6
+1 3 5 7 2
+2 4 8 7
+3 7 4 5
+4 7 9
+5 8 7
+6
+7
+8
+9
