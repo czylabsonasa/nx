@@ -1,3 +1,3 @@
 # networkx 
-## (the official tutorial)[tutNx.html]
-## (links)[nxLinks.html]
+## [the official tutorial](tutNx.html)
+## [links](nxLinks.html)
